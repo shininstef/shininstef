@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @shininstef
-- 👀 I’m a Computer Technology Student @ Tec de Monterrey
+- 👀 Computer Science Student @ Tec de Monterrey
 
