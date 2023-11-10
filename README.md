@@ -3,9 +3,9 @@
 
 
 ## 🌺 About Me
-Hi! I'm Stephanie, a B.S. in Computer Science and Techonology @ Tec De Monterrey. As student and professional I am interested in Data Science, Machine Learning and Natural Language Processing.
+Hi! I'm Stephanie, a B.S. in Computer Science and Technology @ Tec De Monterrey. As a student and professional I am interested in Data Science, Machine Learning and Natural Language Processing.
 
-⭐ Enthusiast in social movement and equality within the STEM areas. Teaching is other of my passions.
+⭐ Enthusiast in social movement and equality within the STEM areas. Teaching is another of my passions.
 
 
 
